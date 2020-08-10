@@ -1,0 +1,15 @@
+{
+  "name": "faunaapi",
+  "version": "1.0.0",
+  "description": "Fauna application API to find pets for adoption using petfinder and enable users find animal sanctuary and rescue organisations for donations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shamsudeen Adedokun",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  }
+}
